@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Sebastião Soares 👋
 
-<!--
-**seb2301/seb2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack 💻
+ 
+- 🌐 HTML | CSS | JavaScript | React | React-Native
+- 💻 TypeScript | NodeJS 
+- 💻 Java | C# | C++ | Python | Shell
+- 🛢 MySQL | Postgresql | Mongo (basic only) 
+- 🔧 Visual Studio Code | Git
+- :building_construction: Docker | AWS
 
-Here are some ideas to get you started:
+- You can to follow me at Linked-In, <a href="https://www.linkedin.com/in/sebfullstack/">I'm here!</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![seb2301's github stats](https://github-readme-stats.vercel.app/api?username=seb2301&show_icons=true&&theme=radical&hide=["contribs","issues"])](https://github.com/seb2301)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seb2301&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
