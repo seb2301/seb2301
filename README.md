@@ -16,3 +16,13 @@ I am a software developer passionate about learning and tackling new challenges.
 [![seb2301's github stats](https://github-readme-stats.vercel.app/api?username=seb2301&show_icons=true&&theme=radical&hide=["contribs","issues"])](https://github.com/seb2301)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seb2301&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+My Contacts:
+
++55 47 99987-6998 (whatsapp)
+
+sebastiao.filho2301@gmail.com
+
+http://www.linkedin.com/in/sebfullstack 
+
+https://github.com/seb2301
