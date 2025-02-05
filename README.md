@@ -34,8 +34,7 @@
     <td align="center" width="55%">
         <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seb2301&theme=2077" alt="seb2301" /></a>
     </td>
-    [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seb2301&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   </tr>
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renanponick&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </table>
 
