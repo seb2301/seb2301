@@ -41,4 +41,3 @@ I am a software developer passionate about learning and tackling new challenges.
   </tr>
 
 
-</table>
