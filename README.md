@@ -14,10 +14,6 @@
   
 ´´´´
 
-
-I am a software developer passionate about learning and tackling new challenges. I am seeking an opportunity to apply my knowledge and develop innovative solutions. I have solid experience in HTML, CSS, JavaScript, NodeJS, React, TypeScript, and Deploy, which allows me to create robust and efficient web applications. Currently, I am expanding my knowledge in C++, C#, SQL, PHP, Java, UX and UI, Laravel, Vue.JS, Rest and RestFull, Azure, ASP.NET, Docker, AWS, Angular, and Python. I have a good understanding of relational and non-relational databases, with practical experience in MongoDB and projects started from scratch. I am hardworking and motivated, always striving to solve problems and optimize processes with creativity and efficiency.
-
-
 <h1>Skills<a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
 [![My Skills](https://skillicons.dev/icons?i=git,c,html,css,javascript,tailwind,mysql,php,laravel,postgres,postman,docker,vue,react,java,spring,mongodb,angular,jenkins,gitlab&theme=light)](https://skillicons.dev)
@@ -40,4 +36,5 @@ I am a software developer passionate about learning and tackling new challenges.
     </td>
   </tr>
 
+</table>
 
