@@ -39,7 +39,9 @@
 
 <table align="center">
   <tr>
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seb2301&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+     <td align="center" width="45%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seb2301&show_icons=true&theme=radical" alt="seb2301" /></a>
+     </td>
   </tr>
 </table>
 
