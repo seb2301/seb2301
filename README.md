@@ -12,7 +12,7 @@
       "linkedin": "http://www.linkedin.com/in/sebfullstack",
     }
   
-´´´´
+````
 
 <h1>Skills<a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
