@@ -11,8 +11,8 @@
       "email": "sebastiao.filho2301@gmail.com",
       "linkedin": "http://www.linkedin.com/in/sebfullstack",
     }
-  }
-}
+  
+´´´´
 
 
 I am a software developer passionate about learning and tackling new challenges. I am seeking an opportunity to apply my knowledge and develop innovative solutions. I have solid experience in HTML, CSS, JavaScript, NodeJS, React, TypeScript, and Deploy, which allows me to create robust and efficient web applications. Currently, I am expanding my knowledge in C++, C#, SQL, PHP, Java, UX and UI, Laravel, Vue.JS, Rest and RestFull, Azure, ASP.NET, Docker, AWS, Angular, and Python. I have a good understanding of relational and non-relational databases, with practical experience in MongoDB and projects started from scratch. I am hardworking and motivated, always striving to solve problems and optimize processes with creativity and efficiency.
@@ -22,7 +22,7 @@ I am a software developer passionate about learning and tackling new challenges.
 
 [![My Skills](https://skillicons.dev/icons?i=git,c,html,css,javascript,tailwind,mysql,php,laravel,postgres,postman,docker,vue,react,java,spring,mongodb,angular,jenkins,gitlab&theme=light)](https://skillicons.dev)
 
-]
+<div style="display: flex; align-items: center">
   <h1> 
     My GitHub Stats 
     <a href="#-my-github-stats--">
