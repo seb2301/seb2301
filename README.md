@@ -1,28 +1,44 @@
-# Hi there, I'm Sebastião Soares 👋
+<h1> 💫 About Me  </h1>
+
+
+```json
+{
+  "aboutMe": {
+    "name": "Sebastião Soares da Silva Filho",
+    "profession": "full stack developer",
+    "location": "Brazil",
+    "contact": {
+      "email": "sebastiao.filho2301@gmail.com",
+      "linkedin": "http://www.linkedin.com/in/sebfullstack",
+    }
+  }
+}
+
 
 I am a software developer passionate about learning and tackling new challenges. I am seeking an opportunity to apply my knowledge and develop innovative solutions. I have solid experience in HTML, CSS, JavaScript, NodeJS, React, TypeScript, and Deploy, which allows me to create robust and efficient web applications. Currently, I am expanding my knowledge in C++, C#, SQL, PHP, Java, UX and UI, Laravel, Vue.JS, Rest and RestFull, Azure, ASP.NET, Docker, AWS, Angular, and Python. I have a good understanding of relational and non-relational databases, with practical experience in MongoDB and projects started from scratch. I am hardworking and motivated, always striving to solve problems and optimize processes with creativity and efficiency.
 
-## 💻 Tech Stack 💻
- 
-- 🌐 HTML | CSS | JavaScript | React | React-Native
-- 💻 TypeScript | NodeJS 
-- 💻 Java | C# | C++ | Python | Shell
-- 🛢 MySQL | Postgresql | Mongo (basic only) 
-- 🔧 Visual Studio Code | Git
-- :building_construction: Docker | AWS
 
-- You can to follow me at Linked-In, <a href="https://www.linkedin.com/in/sebfullstack/">I'm here!</a>
+<h1>Skills<a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
-[![seb2301's github stats](https://github-readme-stats.vercel.app/api?username=seb2301&show_icons=true&&theme=radical&hide=["contribs","issues"])](https://github.com/seb2301)
+[![My Skills](https://skillicons.dev/icons?i=git,c,html,css,javascript,tailwind,mysql,php,laravel,postgres,postman,docker,vue,react,java,spring,mongodb,angular,jenkins,gitlab&theme=light)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=seb2301&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+]
+  <h1> 
+    My GitHub Stats 
+    <a href="#-my-github-stats--">
+      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
+    </a>
+  </h1>
+</div>
+<table align="center">
+  <tr>
+    <td align="center" width="45%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=seb2301&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" alt="sanaa-ennaji" /></a>
+    </td>
+    <td align="center" width="55%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seb2301&theme=2077" alt="sanaa-ennaji" /></a>
+    </td>
+  </tr>
 
-My Contacts:
 
-+55 47 99987-6998 (whatsapp)
-
-sebastiao.filho2301@gmail.com
-
-http://www.linkedin.com/in/sebfullstack 
-
-https://github.com/seb2301
+</table>
